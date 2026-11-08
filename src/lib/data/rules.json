@@ -1,0 +1,15 @@
+[
+  { "kategori": "BOLEH", "teks": "Abaikan konten buzzer — biarkan atau scroll lewat tanpa interaksi.", "alasan": "Algoritma membaca konten yang dilewati tanpa disentuh sebagai konten yang tidak relevan." },
+  { "kategori": "BOLEH", "teks": "Blokir akun buzzer untuk mengurangi distribusi kontennya.", "alasan": "Lebih sedikit konten provokatif di feed = lebih sedikit pancingan emosi." },
+  { "kategori": "BOLEH", "teks": "Buat konten tandingan mandiri: bantahan berbasis data, kronologi, dan sumber primer.", "alasan": "Meluruskan tanpa mengulang provokasi atau menyerang identitas penyebar." },
+  { "kategori": "BOLEH", "teks": "Perkuat konten akurat: like, komentar, simpan, tonton sampai selesai, repost, kirim ke grup.", "alasan": "Engagement dialihkan ke fakta — karhutla, dampak kebijakan, isu sosial." },
+  { "kategori": "BOLEH", "teks": "Bangun jejaring & grup (mis. WhatsApp) untuk menyepakati materi dan saling mendukung.", "alasan": "Inspirasi Janonisme Brasil: misi harian yang jelas dan terkoordinasi." },
+  { "kategori": "BOLEH", "teks": "Blokir + report untuk pelecehan, ancaman, doxing, penipuan, intimidasi terkoordinasi.", "alasan": "Itu pelanggaran nyata — bukan sekadar provokasi." },
+  { "kategori": "JANGAN", "teks": "Jangan screenshot konten buzzer lalu diunggah di akun sendiri.", "alasan": "Penonton penasaran akan datang ke akun aslinya — tetap dihitung interaksi." },
+  { "kategori": "JANGAN", "teks": "Jangan report asal-asalan.", "alasan": "Report hanya untuk pelanggaran nyata aturan platform." },
+  { "kategori": "JANGAN", "teks": "Jangan berkomentar sebelum memblokir.", "alasan": "Komentar sudah tercatat sebagai engagement." },
+  { "kategori": "JANGAN", "teks": "Jangan membalas komentar lalu menghapusnya.", "alasan": "Engagement sudah terlanjur tercatat saat komentar dikirim." },
+  { "kategori": "JANGAN", "teks": "Jangan berdebat di kolom komentar buzzer — bahkan dengan akun palsu.", "alasan": "Balasan tetap dihitung engagement dan memperluas jangkauan." },
+  { "kategori": "JANGAN", "teks": "Jangan membagikan link konten buzzer ke grup, apa pun alasannya.", "alasan": "Membagikan untuk hujatan tetap memperluas jangkauan mereka." },
+  { "kategori": "JANGAN", "teks": "Jangan like, save, follow, atau quote unggahan buzzer.", "alasan": "Semua tindakan itu adalah engagement." }
+]

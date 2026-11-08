@@ -193,9 +193,9 @@ Settings repo: **Settings → Pages → Source: GitHub Actions**. URL hasil: `ht
 
 ### 3.9 Roadmap
 
-- [ ] **v0.1 — Rancangan (repo ini)**: README detail + struktur data final
-- [ ] **v0.2 — MVP**: SvelteKit + Tailwind, halaman `/`, `/panduan`, `/fakta`, tombol salin, deploy GitHub Pages
-- [ ] **v0.3**: halaman `/satir` + `/salin` lengkap, OG image, SEO
+- [x] **v0.1 — Rancangan (repo ini)**: README detail + struktur data final
+- [x] **v0.2 — MVP**: SvelteKit + Tailwind, halaman `/`, `/panduan`, `/fakta`, `/satir`, `/salin`, `/sumber`, `/tentang`, tombol salin, deploy GitHub Pages
+- [x] **v0.3**: halaman `/satir` + `/salin` lengkap, OG image, SEO
 - [ ] **v1.0**: checklist interaktif harian, arsip berita mingguan (JSON), mode terang/gelap
 - [ ] **v1.1**: terjemahan EN, versi cetak (print stylesheet), PWA ringan (offline baca panduan)
 
